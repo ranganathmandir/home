@@ -1,15 +1,10 @@
-/**
-* Template Name: Squadfree - v4.7.0
-* Template URL: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari&display=swap');
 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Noto Sans Devanagari', sans-serif;
   color: #444444;
 }
 
@@ -24,7 +19,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Noto Sans Devanagari', sans-serif;
 }
 
 #main {
@@ -92,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 1px;
-  font-family: "Poppins", sans-serif;
+ font-family: 'Noto Sans Devanagari', sans-serif;
   text-transform: uppercase;
 }
 #header .logo h1 a, #header .logo h1 a:hover {
@@ -135,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   padding: 8px 16px;
   margin-left: 10px;
-   font-family: 'Poppins', sans-serif;
+   font-family: 'Noto Sans Devanagari', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #fff;
